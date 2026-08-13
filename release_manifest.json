@@ -1,0 +1,93 @@
+{
+  "format": "genesis-knowledge-release",
+  "formatVersion": 1,
+  "repository": "menghan465/Genesis-Knowledge-Packs",
+  "tag": "knowledge-2026.03.05-r1",
+  "baseUrl": "https://github.com/menghan465/Genesis-Knowledge-Packs/releases/download/knowledge-2026.03.05-r1/",
+  "assets": [
+    {
+      "packId": "gutenberg-en-lcc-b",
+      "file": "gutenberg-en-lcc-b.gknowledge.sqlite.part01",
+      "sizeBytes": 1200000000,
+      "sha256": "c742091c30e55013f7d8ca39e058363bf84cecc80667f02d916f6c558ec0493c"
+    },
+    {
+      "packId": "gutenberg-en-lcc-b",
+      "file": "gutenberg-en-lcc-b.gknowledge.sqlite.part02",
+      "sizeBytes": 1047774208,
+      "sha256": "38e08964da53c5d3bb81682155253a7867d7d63acffd70275956f7ee2db23e23"
+    },
+    {
+      "file": "gutenberg-en-lcc-g.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-g",
+      "sizeBytes": 881389568,
+      "sha256": "3d8e43c997fc61b3b22d15fb9be6068374b6d462c40f0f1cb60f127da8886f36"
+    },
+    {
+      "file": "gutenberg-en-lcc-h.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-h",
+      "sizeBytes": 833089536,
+      "sha256": "085f8925f967784cf5a7a0630e1c54d018ebbe9bca4a9c39844202dc0c66a734"
+    },
+    {
+      "file": "gutenberg-en-lcc-j.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-j",
+      "sizeBytes": 247287808,
+      "sha256": "256765c06769821f9eb9af012f1805573286985c9efe3b83f44ea47cc783eef6"
+    },
+    {
+      "file": "gutenberg-en-lcc-k.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-k",
+      "sizeBytes": 171446272,
+      "sha256": "60c22f14fb318f1a383d06395d295d878e2e265ca0587a04da250e33a3760bee"
+    },
+    {
+      "file": "gutenberg-en-lcc-p.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-p",
+      "sizeBytes": 14372864,
+      "sha256": "9aff19613b558b64aad2276df5d7bd3ac28295a44deeefc65e3454354bdadf35"
+    },
+    {
+      "file": "gutenberg-en-lcc-pn.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-pn",
+      "sizeBytes": 579170304,
+      "sha256": "812fbf332a46b393947994ce7905ff3796863069f36f243016281baaf61d1ec7"
+    },
+    {
+      "file": "gutenberg-en-lcc-u.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-u",
+      "sizeBytes": 123420672,
+      "sha256": "c7f33dfead02e323744aa7954424af4a664012fd249d9953fc4b2d124e0e67a6"
+    },
+    {
+      "file": "gutenberg-en-lcc-v.gknowledge.sqlite",
+      "packId": "gutenberg-en-lcc-v",
+      "sizeBytes": 49774592,
+      "sha256": "250dcac0e85036eb2da47f707c20dcd9f6dd429a49af0c7d45c52309e2761d16"
+    },
+    {
+      "file": "wikipedia-en-climate-change.gknowledge.sqlite",
+      "packId": "wikipedia-en-climate-change",
+      "sizeBytes": 58822656,
+      "sha256": "d25830f1d1279dfcb352aff9a70003e9695527925c6f798bc0992dc87bbd7853"
+    },
+    {
+      "file": "wikipedia-en-geography.gknowledge.sqlite",
+      "packId": "wikipedia-en-geography",
+      "sizeBytes": 244027392,
+      "sha256": "de455ef539c6ffdfd59de65d1fa109bfbaf31c3d59c047f5cd8c38dfbe515cd6"
+    },
+    {
+      "file": "wikipedia-en-history.gknowledge.sqlite",
+      "packId": "wikipedia-en-history",
+      "sizeBytes": 678006784,
+      "sha256": "f61e1ff61163ad2118f6cd8b61c32c8fad5ab778eb971d82eafd367f4de82568"
+    },
+    {
+      "file": "wikipedia-en-sociology.gknowledge.sqlite",
+      "packId": "wikipedia-en-sociology",
+      "sizeBytes": 193818624,
+      "sha256": "9d72bd7052305d7c755a53f5949e8f898e4f4403a7db72ceb0144dfcd2799ef3"
+    }
+  ]
+}
