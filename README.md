@@ -2,20 +2,21 @@
 
 This repository publishes optional offline SQLite knowledge modules for the Android app **Genesis / 创世纪**.
 
-The large `.gknowledge.sqlite` files are distributed only as GitHub Release assets. They are not committed to Git history and are not bundled in the APK. The app downloads a selected module, validates its byte length and SHA-256 digest, and then uses its local FTS5 index for retrieval-assisted generation.
+The large knowledge databases are distributed only as GitHub Release assets. They are not committed to Git history and are not bundled in the APK. Larger assets use deterministic gzip transport; the app streams decompression directly into its private SQLite storage, verifies both the downloaded asset and the original database, and then uses the local FTS5 index for retrieval-assisted generation.
 
 ## Current release
 
 - Tag: `knowledge-2026.03.05-r1`
 - 13 logical knowledge modules
-- 14 binary assets (the largest module is split into two ordered parts)
+- 13 binary assets (4 SQLite assets and 9 gzip-compressed SQLite assets)
 - Original installed payload: 6,322,401,280 bytes
+- Total binary download payload: 4,113,463,323 bytes
 - Catalog: `knowledge_pack_manifest.json`
 - Asset checksums: `SHA256SUMS.txt`
 
 ## Integrity
 
-The application catalog records the SHA-256 and exact byte size of each complete SQLite database. Split assets additionally carry per-part SHA-256 and size metadata. A module is not installed if any check fails.
+The application catalog records the SHA-256 and exact byte size of each complete SQLite database. Gzip assets additionally carry the SHA-256 and exact byte size of the transferred compressed file. A module is not installed if the transfer, decompression, database metadata, or final SQLite integrity check fails.
 
 ## Sources and licenses
 
