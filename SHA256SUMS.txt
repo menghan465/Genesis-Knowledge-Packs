@@ -1,4 +1,6 @@
-ae652b8bb698f57af8d2bebe3b0e7fce94b703c290d2426ad486a5a6e7def100  gutenberg-en-lcc-b.gknowledge.sqlite.gz
+bdb6002b51e615171f8df52c46c03a5d6b5f22082c67e193566126ca3f60207f  gutenberg-en-lcc-b.gknowledge.sqlite.gz.part01
+7d2c01740422b6055606d763a4a7f997cc9d3fc333138f907921d01fba91a11a  gutenberg-en-lcc-b.gknowledge.sqlite.gz.part02
+ea6ccb95ae5f141611778c5152c7332b0a8e8d765641a624ebc150510d62a523  gutenberg-en-lcc-b.gknowledge.sqlite.gz.part03
 b17a98969d52c1777fa120cc7c1ac6a94bc43e069115d6c705b243301e774693  gutenberg-en-lcc-g.gknowledge.sqlite.gz
 095623a637ca8a0b165ea39d6a5e7c70f3b67ea0d6068db08b3444d2e3168122  gutenberg-en-lcc-h.gknowledge.sqlite.gz
 2df05348879e72cb1aad313027ef4421e73c63e8a65a5554202053336769c34e  gutenberg-en-lcc-j.gknowledge.sqlite.gz

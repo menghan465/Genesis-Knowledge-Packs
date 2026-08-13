@@ -31,11 +31,28 @@
       "entryCount": 467048,
       "storageFormat": "sqlite-v1",
       "indexVersion": 1,
-      "downloadUrl": "https://github.com/menghan465/Genesis-Knowledge-Packs/releases/download/knowledge-2026.03.05-r1/gutenberg-en-lcc-b.gknowledge.sqlite.gz",
+      "downloadUrl": "",
       "bundledAsset": "",
       "downloadCompression": "gzip",
       "downloadSizeBytes": 1435005703,
-      "downloadSha256": "ae652b8bb698f57af8d2bebe3b0e7fce94b703c290d2426ad486a5a6e7def100"
+      "downloadSha256": "ae652b8bb698f57af8d2bebe3b0e7fce94b703c290d2426ad486a5a6e7def100",
+      "downloadParts": [
+        {
+          "url": "https://github.com/menghan465/Genesis-Knowledge-Packs/releases/download/knowledge-2026.03.05-r1/gutenberg-en-lcc-b.gknowledge.sqlite.gz.part01",
+          "sizeBytes": 480000000,
+          "sha256": "bdb6002b51e615171f8df52c46c03a5d6b5f22082c67e193566126ca3f60207f"
+        },
+        {
+          "url": "https://github.com/menghan465/Genesis-Knowledge-Packs/releases/download/knowledge-2026.03.05-r1/gutenberg-en-lcc-b.gknowledge.sqlite.gz.part02",
+          "sizeBytes": 480000000,
+          "sha256": "7d2c01740422b6055606d763a4a7f997cc9d3fc333138f907921d01fba91a11a"
+        },
+        {
+          "url": "https://github.com/menghan465/Genesis-Knowledge-Packs/releases/download/knowledge-2026.03.05-r1/gutenberg-en-lcc-b.gknowledge.sqlite.gz.part03",
+          "sizeBytes": 475005703,
+          "sha256": "ea6ccb95ae5f141611778c5152c7332b0a8e8d765641a624ebc150510d62a523"
+        }
+      ]
     },
     {
       "id": "gutenberg-en-lcc-g",
